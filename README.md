@@ -1,0 +1,2 @@
+# AABBCalculator
+ 用于从Minecraft Java版的Json模型计算出碰撞箱并输出代码的实用工具
